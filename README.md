@@ -1,7 +1,7 @@
 # git-it-done
 Module 6: Server-side APIs
 
-![Image of Portfolio Home](screenshot.PNG)
+![Image of Portfolio Home](screenshot.png)
 
 
 ## Purpose
